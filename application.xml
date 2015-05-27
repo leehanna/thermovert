@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<application xmlns="http://www.kinoma.com/kpr/application/1" id="thermovert" program="src/main" title="ThermoVert">
+<application xmlns="http://www.kinoma.com/kpr/application/1" id="tutorial" program="src/main" title="TUTORIAL">
 
 </application>
